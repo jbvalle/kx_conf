@@ -1,3 +1,0 @@
-[submodule "cfg_mcal"]
-	path = cfg_mcal
-	url = git@github.com:jbvalle/cfg_mcal.git
