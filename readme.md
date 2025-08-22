@@ -1,2 +1,0 @@
-# Description
-Root for Configurations
